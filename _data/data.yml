@@ -51,12 +51,29 @@ experiences:
         time: 2020 - Present
         company: Lighthouse Christian Church, Bellevue WA
         details: |
-            - Livestream
-            -- test
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Graphics - Creation of images and designs for:
+            - Presentations
+            - Logos and titles
+            - Weekly newsletters
+            - Pamphlets & flyers
+            - Postcards
+            - Business cards
+            - Nametags
+          Web Design - Design and maintainance of website
+          Video Editing - Lead on entire video production process including:
+            - Videography
+            - Audio recording and editing
+            - Video editing
+            - Music selection & editing
+            - Graphical titles & overlays
+          Livestreams - Weekly led a team of volunteers in a livestream production, that included:
+            - Four cameras across three camera operators
+            - Live video switching
+            - Live audio mixing
+            - Aquisition, setup, and takedown of equipment
+      - role: Packaging Designer
+        time: 2023 - Present
+        company: Grace Harvest & Associates
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,9 +111,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of past freelance/consulting jobs
     assignments:
       - title: Seattle Squid
         link: 
@@ -105,6 +120,10 @@ projects:
       - title: Watumull Childrens Education
         link: 
         tagline: "Initial branding and website design for non-profit focused on education in underserved communities"
+
+      - title: Japanese Community Queens
+        link: 
+        tagline: "Led the creation of a documentary for a non-profit organization centered around women empowerment within the Asian-American community. This included research, scripting, filming, conducting interviews, video & audio editing and titles/overlays."
 
 skills:
     title: Skills &amp; Proficiency
@@ -118,6 +137,9 @@ skills:
 
       - name: Adobe Premiere
         level: 95%
+
+      - name: Adobe After Effects
+        level: 80%
 
       - name: HTML5 & CSS
         level: 90%
